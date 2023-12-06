@@ -89,6 +89,5 @@ int main() {
     slist->reverse(slist->get_Ptr(0) , slist->get_Ptr(10));
     slist->output_List();
     delete slist; // 释放动态分配的内存
-    cout<< endl <<"2204060605 谷圣兵 ";
     return 0;
 }
